@@ -1,0 +1,21 @@
+.container {
+    margin-top: 50px;
+}
+
+.input {
+    text-align: center;
+}
+
+.pending {
+    color: gray;
+}
+
+.correct {
+    color: green;
+    font-weight: bold;
+}
+
+.incorrect {
+    color: red;
+    font-weight: bold;
+}
